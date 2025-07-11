@@ -12,7 +12,7 @@ For more information on using the Vue Frameworks
 <img width="1919" height="1024" alt="image" src="https://github.com/user-attachments/assets/00408eee-35cd-47d0-bd3f-e68f5df84384" />
 
 ### The loguin inferface
-![image](https://github.com/user-attachments/assets/4b8625c0-fac7-428b-82cd-b801cce0daa1)
+<img width="1913" height="1030" alt="image" src="https://github.com/user-attachments/assets/59901fff-e2ef-4997-bb21-e18e03d265b3" />
 
 ### The employee list inferface
 ![image](https://github.com/user-attachments/assets/a9d35be7-9a69-4cc0-a772-c85f3b1fc591)
