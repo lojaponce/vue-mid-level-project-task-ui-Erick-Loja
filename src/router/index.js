@@ -4,6 +4,7 @@ import TaskList from '../views/TaskList.vue'
 const routes = [
     {path: '/', redirect: '/projects'},
     {path: '/projects', component: ProjectList},
+    {path: '/tasks', component: TaskList},
     {path: '/task/:projectId', component: TaskList, props: true},
 ]
 const router =createRouter({
