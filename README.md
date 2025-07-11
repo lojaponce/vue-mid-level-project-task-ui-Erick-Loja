@@ -6,11 +6,10 @@ Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://
 
 ## Additional Resources
 
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
-
+For more information on using the Vue Frameworks
 ## 📷 Project images
-### Run ng serve in vsc
-![image](https://github.com/user-attachments/assets/4e87178d-2f5c-482b-b9b6-65285fee3bfb)
+### Run npm run dev
+<img width="1919" height="1024" alt="image" src="https://github.com/user-attachments/assets/00408eee-35cd-47d0-bd3f-e68f5df84384" />
 
 ### The loguin inferface
 ![image](https://github.com/user-attachments/assets/4b8625c0-fac7-428b-82cd-b801cce0daa1)
