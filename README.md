@@ -3,3 +3,23 @@
 This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
 Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+
+## Additional Resources
+
+For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+## 📷 Project images
+### Run ng serve in vsc
+![image](https://github.com/user-attachments/assets/4e87178d-2f5c-482b-b9b6-65285fee3bfb)
+
+### The loguin inferface
+![image](https://github.com/user-attachments/assets/4b8625c0-fac7-428b-82cd-b801cce0daa1)
+
+### The employee list inferface
+![image](https://github.com/user-attachments/assets/a9d35be7-9a69-4cc0-a772-c85f3b1fc591)
+
+### The employee add inferface
+![image](https://github.com/user-attachments/assets/ba97987f-0957-4ed8-b7c8-2f13ee27daad)
+
+### The employee edit inferface
+![image](https://github.com/user-attachments/assets/579111ba-f1d1-42c0-880e-e3fd79602d83)
